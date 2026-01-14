@@ -1,5 +1,5 @@
 # 💫 Junior Software Engineer
-👋 Hey, I’m Shaheryar Ali<br>⚛️ Frontend Engineer — React | React Native<br>✨ Turning ideas into clean, high-performance interfaces<br>📈 Always learning, improving, and shipping better code<br>🤝 Let’s collaborate on impactful products & startups<br>🌱 I’m currently working as an Junior Software Engineer in KarachiSol. 👨🏻‍💼 https://my-portfolio-pi-ten-86.vercel.app/
+👋 Hey, I’m Shaheryar Ali<br>⚛️ Frontend Engineer — React | React Native<br>✨ Turning ideas into clean, high-performance interfaces<br>📈 Always learning, improving, and shipping better code<br>🤝 Let’s collaborate on impactful products & startups<br>🌱 I’m currently working as an Junior Software Engineer in KarachiSol. <br>👨🏻‍💼 https://my-portfolio-pi-ten-86.vercel.app/
 
 
 ## 🌐 Socials:
